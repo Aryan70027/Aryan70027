@@ -1,52 +1,52 @@
-<h1 align="center">Hey 👋, I'm Aryan Mehta</h1>
+<h1 align="center">Hi 👋, I'm Aryan Mehta</h1>
 
-<p align="center">
-🚀 Building real-world products with live users <br>
-💻 Full Stack Developer | System Builder
-</p>
+<h3 align="center">🚀 Building real-world products that people actually use</h3>
 
 ---
 
-## 🔥 About Me
-- 🚀 Built *Zudex* — Hyperlocal delivery platform (500+ users)  
-- 🏫 Developed *EduWindow OS* — School/College ERP system  
-- 💌 Created *OurBond* — Template + payment platform  
-- ⚡ Focused on real-world systems, automation & scalability  
+### ⚡ About Me
+- 🚀 Building *Zudex* – Hyperlocal commerce platform (500+ users)
+- 🧠 Product-focused developer (not just code, full systems)
+- ⚙️ I design real workflows: orders, payments, automation
+- 🎯 Learning by building, not tutorials
 
 ---
 
-## 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,firebase,ts,js,tailwind,postgres,git,github,vercel" />
-</p>
-
----
-
-## 🚀 Live Projects
-- 🌐 Zudex → https://app.zudex.app  
+### 🌍 Live Projects
+- 🚀 Zudex → https://app.zudex.app  
 - 💌 OurBond → https://ourbond.in  
 
 ---
 
-## ⚡ What I Do
-- 🔹 Multi-role system architecture (User, Vendor, Rider, Admin)  
-- 🔹 Payment integrations (Razorpay)  
-- 🔹 Automation (Cloud Functions, Webhooks, Emails)  
-- 🔹 Real-time systems with notifications  
+### 💼 What I Build
+- 🛒 Multi-role systems (User, Vendor, Rider, Admin)
+- 💳 Payment integrations (Razorpay + Webhooks)
+- ⚡ Automation (Cloud Functions, real-time flows)
+- 📲 Push notifications & live systems
+- 🗺️ Location-based logic (Google Maps API)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aryan70027&show_icons=true&theme=tokyonight" />
+### 🧠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,firebase,ts,js,tailwind,git,github" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: aryanxmehta0027@gmail.com  
-- 💼 GitHub: https://github.com/aryan70027  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan70027&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ If you like my work, feel free to connect or collaborate!
+### 📫 Connect With Me
+- 📧 aryanxmehta0027@gmail.com  
+- 🌐 https://app.zudex.app  
+
+---
+
+### ⚡ Mindset
+> Real users > fake projects  
+> Build → Launch → Learn → Repeat 🚀
