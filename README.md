@@ -43,7 +43,11 @@
 
 ### 📫 Connect With Me
 - 📧 aryanxmehta0027@gmail.com  
-- 🌐 https://app.zudex.app  
+- 🌐 https://app.zudex.app
+- 🌐 https://aryanmehta.in
+- 🌐 https://ourbond.in
+- 🌐 https://edu-window-os.vercel.app
+
 
 ---
 
