@@ -46,7 +46,7 @@
 - 🌐 https://app.zudex.app
 - 🌐 https://aryanmehta.in
 - 🌐 https://ourbond.in
-- 🌐 https://edu-window-os.vercel.app
+- 🌐 https://eduwindow.tech
 
 
 ---
