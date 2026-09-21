@@ -1,56 +1,81 @@
-<h1 align="center">Hi 👋, I'm Aryan Mehta</h1>
+<div align="center">
 
-<h3 align="center">🚀 Building real-world products that people actually use</h3>
+# Aryan Mehta
 
----
+### Founder & Software Engineer
 
-### ⚡ About Me
-- 🚀 Building *Zudex* – Hyperlocal commerce platform (500+ users)
-- 🧠 Product-focused developer (not just code, full systems)
-- ⚙️ I design real workflows: orders, payments, automation
-- 🎯 Learning by building, not tutorials
+**Founder, EduWindow Private Limited** &nbsp;·&nbsp; **Co-Founder, Zudex Technologies Private Limited**
 
----
+I build production SaaS platforms, mobile applications, and AI-enabled systems for real users — from first product decision to reliable deployment.
 
-### 🌍 Live Projects
-- 🚀 Zudex → https://app.zudex.app  
-- 💌 OurBond → https://ourbond.in  
+[LinkedIn](https://www.linkedin.com/in/aryanmehta0027) &nbsp;·&nbsp; [Email](mailto:founder@eduwindow.tech) &nbsp;·&nbsp; [EduWindow](https://eduwindow.tech) &nbsp;·&nbsp; [Zudex](https://zudex.in)
+
+</div>
 
 ---
 
-### 💼 What I Build
-- 🛒 Multi-role systems (User, Vendor, Rider, Admin)
-- 💳 Payment integrations (Razorpay + Webhooks)
-- ⚡ Automation (Cloud Functions, real-time flows)
-- 📲 Push notifications & live systems
-- 🗺️ Location-based logic (Google Maps API)
+## Building products people depend on
+
+I work at the intersection of product, engineering, and operations. My focus is turning complex real-world workflows into secure, simple, scalable software.
+
+| Venture | What it is | Live product |
+| --- | --- | --- |
+| **EduWindow** | An institutional operating system for schools, colleges, and coaching centres — bringing academics, attendance, admissions, fees, transport, HR, communication, and insights into one platform. | [eduwindow.tech](https://eduwindow.tech) |
+| **Zudex** | A hyperlocal commerce platform built for multi-sided operations across customers, vendors, and delivery/operations workflows. Serving **5,000+ registered users** and growing. | [zudex.in](https://zudex.in) · [zudex.app](https://zudex.app) |
+
+### Live mobile products
+
+| Product | Platform |
+| --- | --- |
+| EduWindow Teacher | [Google Play](https://play.google.com/store/apps/details?id=com.aryan.eduwindow.teacher) |
+| EduWindow Student & Parent | [Google Play](https://play.google.com/store/apps/details?id=com.aryan.eduwindow.student) |
+| Zudex User | [Google Play](https://play.google.com/store/apps/details?id=in.zudex.user.app) |
+| Zudex Vendor | [Google Play](https://play.google.com/store/apps/details?id=com.zudex.app.vendor) |
+
+> Currently building and operating web products plus five live mobile apps across EduWindow and Zudex, with an additional Zudex operations app in the ecosystem.
 
 ---
 
-### 🧠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,firebase,ts,js,tailwind,git,github" />
+## What I build
+
+- Multi-tenant SaaS platforms with role-based experiences for administrators, teams, teachers, students, customers, vendors, and operators.
+- High-signal dashboards, analytics, reporting, AI-assisted workflows, and practical automation.
+- Flutter applications with offline-aware data, notifications, secure storage, location-aware flows, and polished production UX.
+- Reliable backend systems for payments, audit trails, files, exports, emails, notifications, integrations, and background workloads.
+- Product-led interfaces: responsive web experiences, 3D interactions, design systems, and conversion-focused landing pages.
+
+---
+
+## Engineering toolkit
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,flutter,dart,firebase,tailwind,git,github,vercel,blender&perline=14" alt="Core engineering tools" />
 </p>
 
----
+**Frontend & mobile** — React, Next.js, TypeScript, Tailwind CSS, Flutter, Dart, Framer Motion, React Three Fiber
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan70027&show_icons=true&theme=tokyonight" />
-</p>
+**Backend & cloud** — Node.js, Express, Firebase, Firestore, Firebase Auth, Cloud Functions, Firebase Cloud Messaging, Railway, Vercel
 
----
+**Product systems** — Multi-tenancy, RBAC, REST APIs, Razorpay payments, Google Maps, notification systems, CRM workflows, analytics, reporting, audit logs, webhooks, background jobs
 
-### 📫 Connect With Me
-- 📧 aryanxmehta0027@gmail.com  
-- 🌐 https://app.zudex.app
-- 🌐 https://aryanmehta.in
-- 🌐 https://ourbond.in
-- 🌐 https://eduwindow.tech
-
+**AI, data & security** — Google Gemini, TensorFlow.js, face detection workflows, document/PDF/XLSX generation, secure sessions, MFA, IP-aware audit logging, input validation
 
 ---
 
-### ⚡ Mindset
-> Real users > fake projects  
-> Build → Launch → Learn → Repeat 🚀
+## Product mindset
+
+> **Real users over tutorial projects.**
+>
+> I like building products where design quality, operational reliability, and business outcomes matter equally. Every feature should make a workflow clearer, faster, or more trustworthy.
+
+---
+
+<div align="center">
+
+### Let’s build something useful.
+
+For product, client, or investment conversations: [founder@eduwindow.tech](mailto:founder@eduwindow.tech)
+
+© 2026 Aryan Mehta · [LinkedIn](https://www.linkedin.com/in/aryanmehta0027)
+
+</div>
