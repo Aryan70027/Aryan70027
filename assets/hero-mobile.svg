@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="570" viewBox="0 0 480 570" role="img" aria-labelledby="title desc">
+  <title id="title">Aryan Mehta — Founder and Software Engineer</title>
+  <desc id="desc">Two ventures, five mobile apps, and 5,000+ registered Zudex users. Building SaaS, mobile, AI, and full-stack products.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1830"/><stop offset=".65" stop-color="#201637"/><stop offset="1" stop-color="#102c42"/></linearGradient>
+    <linearGradient id="spectrum"><stop stop-color="#63e2f1"/><stop offset=".55" stop-color="#b2a0ff"/><stop offset="1" stop-color="#ffc295"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#7760ed" stop-opacity=".35"/><stop offset="1" stop-color="#7760ed" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#c5bcff" opacity=".09"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="478" height="568" rx="24"/></clipPath>
+    <style>
+      text{font-family:Segoe UI,Arial,sans-serif}.orbit{transform-origin:391px 133px;animation:orbit 26s linear infinite}.haze{animation:drift 12s ease-in-out infinite alternate}
+      @keyframes orbit{to{transform:rotate(360deg)}}@keyframes drift{to{transform:translate(-24px,20px)}}
+      @media(prefers-reduced-motion:reduce){.orbit,.haze{animation:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="480" height="570" fill="url(#bg)"/>
+    <circle class="haze" cx="400" cy="190" r="250" fill="url(#aura)"/>
+    <rect width="480" height="570" fill="url(#dots)"/>
+    <path d="M0 2h480" stroke="url(#spectrum)" stroke-width="4"/>
+    <g opacity=".55" aria-hidden="true"><circle cx="391" cy="133" r="66" fill="none" stroke="#9989df"/><ellipse cx="391" cy="133" rx="90" ry="36" transform="rotate(-35 391 133)" fill="none" stroke="#75d4e1"/><g class="orbit"><circle cx="391" cy="67" r="5" fill="#8be6f0"/></g></g>
+    <circle cx="32" cy="42" r="4" fill="#69f5bf"/><text x="45" y="47" font-size="13" letter-spacing="1.6" fill="#bde8eb">BUILD / SHIP / GROW</text>
+    <text x="27" y="126" fill="#f3f6ff" font-size="61" font-weight="750" letter-spacing="-2">Aryan</text>
+    <text x="27" y="191" fill="#f3f6ff" font-size="61" font-weight="750" letter-spacing="-2">Mehta<tspan fill="#73e6eb">.</tspan></text>
+    <text x="29" y="238" fill="url(#spectrum)" font-size="25" font-weight="650">Founder &amp; Software Engineer</text>
+    <text x="30" y="284" fill="#c9d3e9" font-size="21">From a product idea to something</text>
+    <text x="30" y="315" fill="#c9d3e9" font-size="21">people use, every day.</text>
+    <rect x="30" y="344" width="129" height="35" rx="10" fill="#152f49" stroke="#3d6489"/>
+    <text x="94.5" y="367" text-anchor="middle" fill="#a7e3ff" font-size="17" font-weight="600">EduWindow</text>
+    <rect x="171" y="344" width="89" height="35" rx="10" fill="#332d3c" stroke="#836563"/>
+    <text x="215.5" y="367" text-anchor="middle" fill="#ffd0a5" font-size="17" font-weight="600">Zudex</text>
+    <text x="30" y="421" fill="#aab8d1" font-size="13" letter-spacing="1.4">SAAS / MOBILE / AI / FULL-STACK</text>
+    <rect x="28" y="450" width="124" height="90" rx="14" fill="#14283b" stroke="#355063"/>
+    <rect x="162" y="450" width="124" height="90" rx="14" fill="#241f40" stroke="#514269"/>
+    <rect x="296" y="450" width="156" height="90" rx="14" fill="#2f283b" stroke="#62505e"/>
+    <text x="45" y="488" fill="#7de7ef" font-size="31" font-weight="700">2</text><text x="45" y="516" fill="#cfdeee" font-size="14">Ventures</text>
+    <text x="179" y="488" fill="#beaaff" font-size="31" font-weight="700">5</text><text x="179" y="516" fill="#e0d6f6" font-size="14">Mobile apps</text>
+    <text x="312" y="488" fill="#ffd1a0" font-size="30" font-weight="700">5,000+</text><text x="312" y="509" fill="#eedacf" font-size="12">Zudex registered</text><text x="312" y="526" fill="#eedacf" font-size="12">users · growing</text>
+  </g>
+  <rect x="1" y="1" width="478" height="568" rx="24" fill="none" stroke="#6f658f" stroke-opacity=".6"/>
+</svg>

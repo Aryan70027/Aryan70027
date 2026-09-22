@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="106" viewBox="0 0 680 106" role="img" aria-labelledby="title desc">
+  <title id="title">Web and interface toolkit</title>
+  <desc id="desc">TypeScript, JavaScript, React, Next.js, Tailwind, Motion, R3F</desc>
+  <style>text{font-family:Segoe UI,Arial,sans-serif}</style>
+  <rect x="1" y="1" width="678" height="104" rx="16" fill="#101a2b" stroke="#334660"/>
+  <g>
+    <rect x="25" y="15" width="48" height="48" rx="12" fill="#3178c6"/>
+    <text x="49" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">TS</text>
+    <text x="49" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">TypeScript</text>
+  </g>
+  <g>
+    <rect x="122" y="15" width="48" height="48" rx="12" fill="#b49725"/>
+    <text x="146" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">JS</text>
+    <text x="146" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">JavaScript</text>
+  </g>
+  <g>
+    <rect x="219" y="15" width="48" height="48" rx="12" fill="#147b9a"/>
+    <text x="243" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">⚛</text>
+    <text x="243" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">React</text>
+  </g>
+  <g>
+    <rect x="316" y="15" width="48" height="48" rx="12" fill="#52617a"/>
+    <text x="340" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">N</text>
+    <text x="340" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">Next.js</text>
+  </g>
+  <g>
+    <rect x="413" y="15" width="48" height="48" rx="12" fill="#177f91"/>
+    <text x="437" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">TW</text>
+    <text x="437" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">Tailwind</text>
+  </g>
+  <g>
+    <rect x="510" y="15" width="48" height="48" rx="12" fill="#8853cf"/>
+    <text x="534" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">M</text>
+    <text x="534" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">Motion</text>
+  </g>
+  <g>
+    <rect x="607" y="15" width="48" height="48" rx="12" fill="#be4e8b"/>
+    <text x="631" y="46" fill="#ffffff" text-anchor="middle" font-size="21" font-weight="750">3D</text>
+    <text x="631" y="85" fill="#e0e9f7" text-anchor="middle" font-size="11.5" font-weight="600">R3F</text>
+  </g>
+  <path d="M20 104H660" stroke="#67dafa" stroke-opacity=".6"/>
+</svg>

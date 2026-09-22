@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-labelledby="title desc">
+  <title id="title">Aryan Mehta — Founder and Software Engineer</title>
+  <desc id="desc">Building across education and commerce. Two ventures, five mobile apps, and over five thousand registered Zudex users.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e25"/><stop offset=".58" stop-color="#171331"/><stop offset="1" stop-color="#0b2541"/></linearGradient>
+    <linearGradient id="spectrum"><stop stop-color="#55e8f5"/><stop offset=".48" stop-color="#9a8cff"/><stop offset="1" stop-color="#f8a8d4"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#314778" stop-opacity=".8"/><stop offset="1" stop-color="#161a3c" stop-opacity=".94"/></linearGradient>
+    <radialGradient id="cyan"><stop stop-color="#06b6d4" stop-opacity=".26"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="purple"><stop stop-color="#8b5cf6" stop-opacity=".27"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".055"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="998" height="458" rx="28"/></clipPath>
+    <style>
+      text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}
+      .haze{animation:drift 14s ease-in-out infinite alternate}.haze2{animation:drift 18s ease-in-out infinite alternate-reverse}
+      .float{animation:float 7s ease-in-out infinite}.orbit{transform-origin:807px 206px;animation:orbit 28s linear infinite}
+      .signal{animation:signal 12s linear infinite}.spark{animation:spark 5s ease-in-out infinite}
+      @keyframes drift{to{transform:translate(48px,-24px)}}@keyframes float{50%{transform:translateY(-10px)}}
+      @keyframes orbit{to{transform:rotate(360deg)}}@keyframes signal{to{stroke-dashoffset:-240}}@keyframes spark{50%{opacity:.35}}
+      @media(prefers-reduced-motion:reduce){.haze,.haze2,.float,.orbit,.signal,.spark{animation:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="460" fill="url(#bg)"/>
+    <ellipse class="haze" cx="130" cy="80" rx="400" ry="280" fill="url(#cyan)"/>
+    <ellipse class="haze2" cx="700" cy="220" rx="430" ry="300" fill="url(#purple)"/>
+    <rect width="1000" height="460" fill="url(#grid)"/>
+    <path d="M0 2H1000" stroke="url(#spectrum)" stroke-width="4"/>
+    <path d="M480 365C660 245 824 405 1050 190" stroke="#7b78ff" stroke-width="1" fill="none" opacity=".22"/>
+    <path class="signal" d="M510 325C690 205 830 335 1030 150" stroke="url(#spectrum)" stroke-width="1.5" stroke-dasharray="8 22" fill="none" opacity=".35"/>
+    <g fill="#b9c8ff"><circle class="spark" cx="569" cy="65" r="2"/><circle cx="614" cy="284" r="2"/><circle class="spark" cx="950" cy="301" r="3"/><path d="M671 107v10m-5-5h10" stroke="#9eacff"/></g>
+    <rect x="48" y="39" width="264" height="31" rx="15.5" fill="#102b3e" stroke="#2c6377"/>
+    <circle cx="65" cy="54.5" r="4" fill="#57f2bc"/>
+    <text class="mono" x="79" y="59" fill="#bceff3" font-size="12" letter-spacing="2">BUILD / SHIP / GROW</text>
+    <text x="46" y="157" fill="#f3f6ff" font-size="71" font-weight="750" letter-spacing="-3">Aryan Mehta<tspan fill="#71e1ec">.</tspan></text>
+    <text x="49" y="201" fill="url(#spectrum)" font-size="28" font-weight="650">Founder &amp; Software Engineer</text>
+    <text x="50" y="248" fill="#c1cbe2" font-size="21">From a product idea to something</text>
+    <text x="50" y="279" fill="#c1cbe2" font-size="21">people use, every day.</text>
+    <text class="mono" x="50" y="322" fill="#9caecb" font-size="12" letter-spacing="2">SAAS / MOBILE / AI / FULL-STACK</text>
+    <g aria-hidden="true">
+      <circle cx="807" cy="206" r="131" fill="none" stroke="#8485ce" stroke-opacity=".22"/>
+      <ellipse cx="807" cy="206" rx="167" ry="69" fill="none" stroke="#5fccde" stroke-opacity=".28" transform="rotate(-32 807 206)"/>
+      <g class="orbit"><circle cx="807" cy="75" r="6" fill="#a791ff"/><circle cx="807" cy="337" r="4" fill="#62e8eb"/></g>
+      <g class="float">
+        <path d="M730 223l78-45 80 45v39l-80 46-78-46z" fill="#11192e" stroke="#5652a0"/>
+        <path d="M730 223l78 45 80-45m-80 45v40" stroke="#7465c6" fill="none"/>
+        <path d="M730 191l78-45 80 45v35l-80 45-78-45z" fill="#213b58" stroke="#6699b0"/>
+        <path d="M730 191l78 45 80-45m-80 45v35" stroke="#6ecee4" stroke-opacity=".55" fill="none"/>
+        <path d="M730 155l78-45 80 45v39l-80 45-78-45z" fill="url(#glass)" stroke="#a89cff"/>
+        <path d="M730 155l78 45 80-45m-80 45v39" stroke="url(#spectrum)" fill="none"/>
+        <text x="808" y="168" text-anchor="middle" fill="#d9f6ff" font-size="29" font-weight="700">AM</text>
+        <rect x="673" y="259" width="127" height="36" rx="11" fill="#142b49" stroke="#3f78b5"/>
+        <circle cx="688" cy="277" r="4" fill="#6bd8ff"/><text x="700" y="282" font-size="15" font-weight="600" fill="#d4edff">EduWindow</text>
+        <rect x="840" y="115" width="96" height="36" rx="11" fill="#322b3d" stroke="#b98a7b"/>
+        <circle cx="855" cy="133" r="4" fill="#ffbd82"/><text x="867" y="139" font-size="15" font-weight="600" fill="#ffe1c5">Zudex</text>
+      </g>
+    </g>
+    <g>
+      <rect x="48" y="360" width="270" height="68" rx="15" fill="#111f34" stroke="#2c485e"/>
+      <rect x="330" y="360" width="270" height="68" rx="15" fill="#1d1d3b" stroke="#474163"/>
+      <rect x="612" y="360" width="340" height="68" rx="15" fill="#252038" stroke="#514451"/>
+      <text x="69" y="405" fill="#7ae4ef" font-size="34" font-weight="700">2</text><text x="104" y="401" fill="#c9d6e9" font-size="15">Ventures. One builder.</text>
+      <text x="351" y="405" fill="#b7a7ff" font-size="34" font-weight="700">5</text><text x="388" y="401" fill="#d4d0ef" font-size="15">Mobile apps built</text>
+      <text x="633" y="405" fill="#ffd1a0" font-size="34" font-weight="700">5,000+</text><text x="762" y="390" fill="#ebd8d0" font-size="14">Zudex registered users</text><text x="762" y="411" fill="#bdaea9" font-size="12">and growing</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="998" height="458" rx="28" fill="none" stroke="#596387" stroke-opacity=".45"/>
+</svg>

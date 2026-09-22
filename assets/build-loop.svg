@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="164" viewBox="0 0 960 164" role="img" aria-labelledby="title desc">
+  <title id="title">From a real problem to a living product</title>
+  <desc id="desc">Understand, design, build, ship, improve. An ongoing feedback loop.</desc>
+  <defs>
+    <linearGradient id="line"><stop stop-color="#67e8f9"/><stop offset=".28" stop-color="#a5b4fc"/><stop offset=".53" stop-color="#c4b5fd"/><stop offset=".78" stop-color="#fda4af"/><stop offset="1" stop-color="#fcd38d"/></linearGradient>
+    <style>
+      text{font-family:Segoe UI,Arial,sans-serif}.flow{animation:flow 20s linear infinite}@keyframes flow{to{stroke-dashoffset:-520}}
+      @media(prefers-reduced-motion:reduce){.flow{animation:none}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="958" height="162" rx="20" fill="#10172a" stroke="#344160"/>
+  <path d="M100 63H858" stroke="#344361" stroke-width="2" fill="none"/>
+  <path d="M100 63H858" class="flow" stroke="url(#line)" stroke-width="3" stroke-dasharray="20 110" stroke-linecap="round" fill="none"/>
+  <path d="M858 63v75H100v-25" stroke="#6a7d9c" stroke-width="1.5" stroke-dasharray="4 7" opacity=".35" fill="none"/>
+  <g font-size="16" font-weight="700" text-anchor="middle">
+    <circle cx="100" cy="63" r="25" fill="#153b48" stroke="#67e8f9"/><text x="100" y="69" fill="#baf5ff">01</text>
+    <circle cx="290" cy="63" r="25" fill="#263355" stroke="#a5b4fc"/><text x="290" y="69" fill="#d4dbff">02</text>
+    <circle cx="480" cy="63" r="25" fill="#352b56" stroke="#c4b5fd"/><text x="480" y="69" fill="#e5d9ff">03</text>
+    <circle cx="670" cy="63" r="25" fill="#462b43" stroke="#fda4af"/><text x="670" y="69" fill="#ffd3dd">04</text>
+    <circle cx="858" cy="63" r="25" fill="#463b2c" stroke="#fcd38d"/><text x="858" y="69" fill="#ffdfaf">05</text>
+  </g>
+  <g font-size="18" font-weight="600" fill="#e7edf9" text-anchor="middle"><text x="100" y="116">Understand</text><text x="290" y="116">Design</text><text x="480" y="116">Build</text><text x="670" y="116">Ship</text><text x="858" y="116">Improve</text></g>
+</svg>

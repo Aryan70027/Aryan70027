@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-labelledby="title">
+  <title id="title">Aryan Mehta — Build. Ship. Grow.</title>
+  <defs>
+    <linearGradient id="spectrum"><stop stop-color="#42d8ed"/><stop offset=".5" stop-color="#b293ff"/><stop offset="1" stop-color="#ffc48a"/></linearGradient>
+    <style>
+      text{font-family:Segoe UI,Arial,sans-serif}.flow{animation:flow 18s linear infinite}@keyframes flow{to{stroke-dashoffset:-800}}
+      @media(prefers-reduced-motion:reduce){.flow{animation:none}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="958" height="98" rx="18" fill="#121a2f" stroke="#364460"/>
+  <path d="M30 3h900" stroke="url(#spectrum)" stroke-width="2" opacity=".4"/>
+  <path d="M30 3h900" class="flow" stroke="url(#spectrum)" stroke-width="3" stroke-dasharray="120 280"/>
+  <text x="34" y="58" fill="#d8e3f7" font-size="23" font-weight="650">Aryan Mehta<tspan fill="#70e6ed">.</tspan></text>
+  <text x="925" y="58" fill="url(#spectrum)" text-anchor="end" font-size="23" font-weight="650">Build. Ship. Grow.</text>
+</svg>
